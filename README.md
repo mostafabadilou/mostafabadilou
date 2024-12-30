@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU3Z2xrMnZjcTNzZHVjOWJpZHc3bzllNzVnazB2bHlpdzN1dXBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy.webp"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVkcmU5OHBsd2g5NnlpN2tvYnNkdTlvYzRkNzdneTJ2bjc1ODhmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.webp"  />
 </div>
 
 ###
