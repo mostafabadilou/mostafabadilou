@@ -1,4 +1,8 @@
-<h1 align="left">Hi ! My name is Mostafa Badilou and I'm a Data Scientist</h1>
+<h1 align="center">Hi ! My name is Mostafa Badilou</h1>
+
+###
+
+<h1 align="center">Python ML & Data Science</h1>
 
 ###
 
@@ -49,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU3Z2xrMnZjcTNzZHVjOWJpZHc3bzllNzVnazB2bHlpdzN1dXBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy.webp"  />
+  <img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU3Z2xrMnZjcTNzZHVjOWJpZHc3bzllNzVnazB2bHlpdzN1dXBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy.webp"  />
 </div>
 
 ###
